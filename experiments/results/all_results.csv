@@ -1,0 +1,33 @@
+Dataset (Outcome),Number of Samples,Overall Prevelance (%),Sensitive Attribute,Group Distribution (%),Group Prevelance (%),Maximum Group Prevelance Difference (%)
+EIE (Ukranian),1445,7.34,Sex,Female: 51.97; Male: 48.03,Female: 4.26; Male: 10.66,6.4
+EIE (Ukranian),1445,7.34,Territory,Rural: 25.33; Urban: 74.67,Rural: 10.38; Urban: 6.3,4.08
+EIE (History),1994,18.0,Sex,Female: 54.36; Male: 45.64,Female: 14.48; Male: 22.2,7.72
+EIE (History),1994,18.0,Territory,Rural: 29.69; Urban: 70.31,Rural: 20.27; Urban: 17.05,3.22
+EIE (Math),1222,31.1,Sex,Female: 48.69; Male: 51.31,Female: 30.92; Male: 31.26,0.34
+EIE (Math),1222,31.1,Territory,Rural: 25.2; Urban: 74.8,Rural: 39.94; Urban: 28.12,11.82
+EIE (Physics),1045,8.33,Sex,Female: 14.64; Male: 85.36,Female: 10.46; Male: 7.96,2.5
+EIE (Physics),1045,8.33,Territory,Rural: 24.4; Urban: 75.6,Rural: 12.16; Urban: 7.09,5.07
+EIE (Chemsitry),1030,10.68,Sex,Female: 63.4; Male: 36.6,Female: 11.18; Male: 9.81,1.37
+EIE (Chemsitry),1030,10.68,Territory,Rural: 22.23; Urban: 77.77,Rural: 15.72; Urban: 9.24,6.48
+EIE (Geography),1132,5.3,Sex,Female: 48.23; Male: 51.77,Female: 4.21; Male: 6.31,2.1
+EIE (Geography),1132,5.3,Territory,Rural: 27.47; Urban: 72.53,Rural: 6.43; Urban: 4.87,1.56
+EIE (English),1278,10.64,Sex,Female: 50.78; Male: 49.22,Female: 9.55; Male: 11.76,2.21
+EIE (English),1278,10.64,Territory,Rural: 15.34; Urban: 84.66,Rural: 17.35; Urban: 9.43,7.92
+EIE (German),1004,11.35,Sex,Female: 65.54; Male: 34.46,Female: 10.03; Male: 13.87,3.84
+EIE (German),1004,11.35,Territory,Rural: 15.14; Urban: 84.86,Rural: 26.97; Urban: 8.57,18.4
+Folktables (Employment),1970,46.45,Sex,Female: 51.68; Male: 48.32,Female: 44.3; Male: 48.74,4.44
+Folktables (Employment),1970,46.45,Race,Asian alone: 8.63; Black or African American alone: 12.18; Other: 8.88; White: 70.3,Asian alone: 50.0; Black or African American alone: 42.08; Other: 41.71; White: 47.36,8.29
+Folktables (Income),1031,41.51,Sex,Female: 49.37; Male: 50.63,Female: 35.76; Male: 47.13,11.37
+Folktables (Income),1031,41.51,Race,Asian alone: 9.21; Black or African American alone: 11.25; Other: 8.05; White: 71.48,Asian alone: 41.05; Black or African American alone: 31.9; Other: 25.3; White: 44.91,19.61
+Folktables (Public Medical Coverage),1352,40.09,Sex,Female: 56.14; Male: 43.86,Female: 38.87; Male: 41.65,2.78
+Folktables (Public Medical Coverage),1352,40.09,Race,Asian alone: 10.43; Black or African American alone: 15.24; Other: 11.76; White: 62.57,Asian alone: 41.13; Black or African American alone: 52.43; Other: 49.06; White: 35.22,17.21
+Folktables (Mobility),1214,78.17,Sex,Female: 50.41; Male: 49.59,Female: 77.29; Male: 79.07,1.78
+Folktables (Mobility),1214,78.17,Race,Asian alone: 10.79; Black or African American alone: 13.67; Other: 10.79; White: 64.74,Asian alone: 75.57; Black or African American alone: 81.33; Other: 81.68; White: 77.35,6.11
+Folktables (Travel Time),1824,53.78,Sex,Female: 49.4; Male: 50.6,Female: 51.72; Male: 55.8,4.08
+Folktables (Travel Time),1824,53.78,Race,Asian alone: 9.27; Black or African American alone: 11.02; Other: 8.06; White: 71.66,Asian alone: 66.86; Black or African American alone: 69.15; Other: 64.63; White: 48.51,20.64
+Loan Assessment,1200,22.17,Education level,High school: 16.42; Not high school or university or greater: 1.58; University or greater: 82.0,High school: 25.38; Not high school or university or greater: 10.53; University or greater: 21.75,14.85
+Loan Assessment,1200,22.17,Sex,Female: 60.33; Male: 39.67,Female: 20.86; Male: 24.16,3.3
+Diabetes Risk Assessment,520,61.54,Sex,Female: 36.92; Male: 63.08,Female: 90.1; Male: 44.82,45.28
+Student Performance,1003,22.03,Sex,Female: 56.63; Male: 43.37,Female: 21.13; Male: 23.22,2.09
+Student Performance,1003,22.03,Address,Rural: 27.42; Urban: 72.58,Rural: 27.27; Urban: 20.05,7.22
+Student Performance,1003,22.03,Parent's education level,High school: 24.13; Not high school or university or greater: 40.88; University or greater: 35.0,High school: 23.55; Not high school or university or greater: 25.85; University or greater: 16.52,9.33

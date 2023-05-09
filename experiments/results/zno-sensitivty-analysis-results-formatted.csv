@@ -1,0 +1,13 @@
+Dataset (Outcome),Number of Samples,Overall Prevelance (%),Sensitive Attribute,Group Distribution (%),Group Prevelance (%),Maximum Group Prevelance Difference (%),Optimal K Range
+EIE (Ukranian),5777,7.34,Sex,Female: 51.96; Male: 48.04,Female: 4.26; Male: 10.67,6.41,None
+EIE (Ukranian),5777,7.34,Territory,Rural: 25.34; Urban: 74.66,Rural: 10.38; Urban: 6.31,4.07,"[5,20]"
+EIE (History),5982,17.99,Sex,Female: 54.35; Male: 45.65,Female: 14.43; Male: 22.23,7.8,"[5,60]"
+EIE (History),5982,17.99,Territory,Rural: 29.69; Urban: 70.31,Rural: 20.21; Urban: 17.05,3.16,All
+EIE (Math),7327,31.05,Sex,Female: 48.7; Male: 51.3,Female: 30.91; Male: 31.18,0.27,All
+EIE (Math),7327,31.05,Territory,Rural: 25.14; Urban: 74.86,Rural: 39.74; Urban: 28.13,11.61,"[5,90]"
+EIE (Ukranian),51991,7.34,Sex,Female: 51.97; Male: 48.03,Female: 4.26; Male: 10.68,6.42,None
+EIE (Ukranian),51991,7.34,Territory,Rural: 25.34; Urban: 74.66,Rural: 10.37; Urban: 6.31,4.06,"[5,20]"
+EIE (History),51837,17.98,Sex,Female: 54.34; Male: 45.66,Female: 14.43; Male: 22.2,7.77,"[5,60]"
+EIE (History),51837,17.98,Territory,Rural: 29.69; Urban: 70.31,Rural: 20.21; Urban: 17.03,3.18,All
+EIE (Math),51283,31.05,Sex,Female: 48.68; Male: 51.32,Female: 30.92; Male: 31.18,0.26,All
+EIE (Math),51283,31.05,Territory,Rural: 25.14; Urban: 74.86,Rural: 39.75; Urban: 28.13,11.62,"[5,90]"

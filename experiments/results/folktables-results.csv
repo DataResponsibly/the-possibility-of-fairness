@@ -1,0 +1,11 @@
+dataset,sample_size,overall_prev,sensitive_attr,group_dist,group_prev,max_group_prev_diff
+ACSEmployment,1970,46.45,sex,"{'Male': 48.32, 'Female': 51.68}","{'Male': 48.74, 'Female': 44.3}",4.44
+ACSEmployment,1970,46.45,race,"{'White': 70.3, 'Asian alone': 8.63, 'Other': 8.88, 'Black or African American alone': 12.18}","{'White': 47.36, 'Asian alone': 50.0, 'Other': 41.71, 'Black or African American alone': 42.08}",8.29
+ACSIncome,1031,41.51,sex,"{'Female': 49.37, 'Male': 50.63}","{'Female': 35.76, 'Male': 47.13}",11.37
+ACSIncome,1031,41.51,race,"{'Other': 8.05, 'White': 71.48, 'Black or African American alone': 11.25, 'Asian alone': 9.21}","{'Other': 25.3, 'White': 44.91, 'Black or African American alone': 31.9, 'Asian alone': 41.05}",19.61
+ACSPublicCoverage,1352,40.09,sex,"{'Male': 43.86, 'Female': 56.14}","{'Male': 41.65, 'Female': 38.87}",2.78
+ACSPublicCoverage,1352,40.09,race,"{'White': 62.57, 'Black or African American alone': 15.24, 'Other': 11.76, 'Asian alone': 10.43}","{'White': 35.22, 'Black or African American alone': 52.43, 'Other': 49.06, 'Asian alone': 41.13}",17.21
+ACSMobility,1214,78.17,sex,"{'Female': 50.41, 'Male': 49.59}","{'Female': 77.29, 'Male': 79.07}",1.78
+ACSMobility,1214,78.17,race,"{'Black or African American alone': 13.67, 'Other': 10.79, 'White': 64.74, 'Asian alone': 10.79}","{'Black or African American alone': 81.33, 'Other': 81.68, 'White': 77.35, 'Asian alone': 75.57}",6.11
+ACSTravelTime,1824,53.78,sex,"{'Female': 49.4, 'Male': 50.6}","{'Female': 51.72, 'Male': 55.8}",4.08
+ACSTravelTime,1824,53.78,race,"{'Asian alone': 9.27, 'White': 71.66, 'Other': 8.06, 'Black or African American alone': 11.02}","{'Asian alone': 66.86, 'White': 48.51, 'Other': 64.63, 'Black or African American alone': 69.15}",20.64

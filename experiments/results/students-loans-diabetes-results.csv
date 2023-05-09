@@ -1,0 +1,7 @@
+dataset,sample_size,overall_prev,sensitive_attr,group_dist,group_prev,max_group_prev_diff
+loans,1200,22.17,education,"{'High school': 16.42, 'University or greater': 82.0, 'Not high school or university or greater': 1.58}","{'High school': 25.38, 'University or greater': 21.75, 'Not high school or university or greater': 10.53}",14.85
+loans,1200,22.17,sex,"{'Female': 60.33, 'Male': 39.67}","{'Female': 20.86, 'Male': 24.16}",3.3
+diabetes,520,61.54,sex,"{'Male': 63.08, 'Female': 36.92}","{'Male': 44.82, 'Female': 90.1}",45.28
+students,1003,22.03,sex,"{'Female': 56.63, 'Male': 43.37}","{'Female': 21.13, 'Male': 23.22}",2.09
+students,1003,22.03,address,"{'Rural': 27.42, 'Urban': 72.58}","{'Rural': 27.27, 'Urban': 20.05}",7.22
+students,1003,22.03,parents_education,"{'Not high school or university or greater': 40.88, 'University or greater': 35.0, 'High school': 24.13}","{'Not high school or university or greater': 25.85, 'University or greater': 16.52, 'High school': 23.55}",9.33

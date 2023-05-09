@@ -1,0 +1,19 @@
+dataset,sample_size,overall_prev,sensitive_attr,group_dist,group_prev,max_group_prev_diff
+Ukr,5777,7.34,sex,"{'Female': 51.96, 'Male': 48.04}","{'Female': 4.26, 'Male': 10.67}",6.41
+Ukr,5777,7.34,territory,"{'Urban': 74.66, 'Rural': 25.34}","{'Urban': 6.31, 'Rural': 10.38}",4.07
+Hist,5982,17.99,sex,"{'Female': 54.35, 'Male': 45.65}","{'Female': 14.43, 'Male': 22.23}",7.8
+Hist,5982,17.99,territory,"{'Urban': 70.31, 'Rural': 29.69}","{'Urban': 17.05, 'Rural': 20.21}",3.16
+Math,7327,31.05,sex,"{'Male': 51.3, 'Female': 48.7}","{'Male': 31.18, 'Female': 30.91}",0.27
+Math,7327,31.05,territory,"{'Urban': 74.86, 'Rural': 25.14}","{'Urban': 28.13, 'Rural': 39.74}",11.61
+Ukr,51991,7.34,sex,"{'Male': 48.03, 'Female': 51.97}","{'Male': 10.68, 'Female': 4.26}",6.42
+Ukr,51991,7.34,territory,"{'Urban': 74.66, 'Rural': 25.34}","{'Urban': 6.31, 'Rural': 10.37}",4.06
+Hist,51837,17.98,sex,"{'Female': 54.34, 'Male': 45.66}","{'Female': 14.43, 'Male': 22.2}",7.77
+Hist,51837,17.98,territory,"{'Rural': 29.69, 'Urban': 70.31}","{'Rural': 20.21, 'Urban': 17.03}",3.18
+Math,51283,31.05,sex,"{'Male': 51.32, 'Female': 48.68}","{'Male': 31.18, 'Female': 30.92}",0.26
+Math,51283,31.05,territory,"{'Urban': 74.86, 'Rural': 25.14}","{'Urban': 28.13, 'Rural': 39.75}",11.62
+Ukr,60656,7.34,sex,"{'Female': 51.97, 'Male': 48.03}","{'Female': 4.26, 'Male': 10.68}",6.42
+Ukr,60656,7.34,territory,"{'Urban': 74.66, 'Rural': 25.34}","{'Urban': 6.31, 'Rural': 10.38}",4.07
+Hist,41869,17.98,sex,"{'Female': 54.34, 'Male': 45.66}","{'Female': 14.43, 'Male': 22.2}",7.77
+Hist,41869,17.98,territory,"{'Rural': 29.69, 'Urban': 70.31}","{'Rural': 20.21, 'Urban': 17.03}",3.18
+Math,51283,31.05,sex,"{'Male': 51.32, 'Female': 48.68}","{'Male': 31.18, 'Female': 30.92}",0.26
+Math,51283,31.05,territory,"{'Urban': 74.86, 'Rural': 25.14}","{'Urban': 28.13, 'Rural': 39.75}",11.62
